@@ -1,3 +1,7 @@
+Website Preview:
+
+![Untitled design (11)](https://github.com/Hemanga-Rana/stock-management-system/assets/95037269/ade8e472-4bb8-44a5-8e19-cdae6174f1dc)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
